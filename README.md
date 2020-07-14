@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://www.linkedin.com/in/aram-zhamkochyan/" rel="nofollow">
-<img src="https://github.com/VanHakobyan/VanHakobyan/raw/master/github.jpg" style="max-width:100%;">
+<img src="https://user-images.githubusercontent.com/25085025/87429707-38461d80-c5f5-11ea-901d-1405ed469b98.png" style="max-width:100%;">
 </a>
 First and foremost, I love writing code.
 
