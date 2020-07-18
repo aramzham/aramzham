@@ -1,14 +1,15 @@
-### Hi there 👋
-<a href="https://www.linkedin.com/in/aram-zhamkochyan/" rel="nofollow">
-<img src="https://user-images.githubusercontent.com/25085025/87429707-38461d80-c5f5-11ea-901d-1405ed469b98.png" style="max-width:100%;">
+<div style="float:left">
+  <a href="https://www.linkedin.com/in/aram-zhamkochyan/" rel="nofollow">
+<img src="https://user-images.githubusercontent.com/25085025/87861030-690ab780-c953-11ea-86f3-5f313ebe0635.png" style="max-width:100%;">
 </a>
+  </div>
 First and foremost, I love writing code.
 
 I hate selling myself. So here's quick things about me and my work. In, out, nobody gets hurt.
 
-I specialize in the backend, APIs, web-services, and desktop applications. This means that I have familiarity with REST, Entity Framework, XAML, LINQ, and a commitment to gaining expertise in Microsoft .NET technologies stack. I've been developing in multinational companies since the 2017 year using SCRUM and best development practices.
+I specialize in the backend, APIs, web-services, and desktop applications. This means that I have familiarity with REST, Entity Framework, XAML, LINQ, and a commitment to gaining expertise in Microsoft .NET technologies stack. I've been developing since the 2017 year using SCRUM and best development practices.
 
-I'm always looking for opportunity to improve the project I'm working on. One of my applications moved the company to entirely new level of sales, opening an entirely new market possibilities.
+I'm always looking for opportunity to improve the project I'm working on.
 <!--
 **aramzham/aramzham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
