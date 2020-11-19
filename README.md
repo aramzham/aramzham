@@ -3,6 +3,9 @@
 <img src="https://user-images.githubusercontent.com/25085025/87861030-690ab780-c953-11ea-86f3-5f313ebe0635.png" style="max-width:100%;">
 </a>
   </div>
+
+## Hi there, I'm Aram :wave:
+ 
 First and foremost, I love writing code.
 
 I hate selling myself. So here's quick things about me and my work. In, out, nobody gets hurt.
@@ -11,6 +14,8 @@ I specialize in the backend, APIs, web-services, and desktop applications. This 
 
 I'm always looking for opportunity to improve the project I'm working on.
 
+---
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -18,6 +23,8 @@ I'm always looking for opportunity to improve the project I'm working on.
 - [MMM Pays](https://www.youtube.com/watch?v=TKmq1uTFFU0)
 - [How to prepare a hookah](https://www.youtube.com/watch?v=BTZ91oTr6mQ)
 <!-- YOUTUBE:END -->
+
+---
 
 ### 📕 Latest Blog Posts
 
@@ -28,20 +35,29 @@ I'm always looking for opportunity to improve the project I'm working on.
 - [New C# 8 Features Մաս 1 (Հայերեն)](https://medium.com/@vanikhakobyan/new-c-8-features-%D5%B4%D5%A1%D5%BD-1-%D5%B0%D5%A1%D5%B5%D5%A5%D6%80%D5%A5%D5%B6-504d4e80e4f6?source=rss-7d6aaa67b72a------2)
 <!-- BLOG-POST-LIST:END -->
 
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=aramzham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Spotify Playing 🎧
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-  <img align="left" alt="aramzham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aramzham&show_icons=true&hide_border=true&hide=issues,contribs" />
+<br/>
+<br/>
 
-</details>
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=aramzham&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="aramzham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aramzham&show_icons=true&hide_border=true&hide=issues,contribs" />
 
 </details>
 
