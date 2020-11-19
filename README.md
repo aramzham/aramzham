@@ -22,6 +22,10 @@ I'm always looking for opportunity to improve the project I'm working on.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Մարդկային ռեսուրսների կառավարումը (ՄՌԿ) հայկական իրականության մեջ կամ ո՞րն է HR-ի գործառույթը։](https://medium.com/@vanikhakobyan/%D5%B4%D5%A1%D6%80%D5%A4%D5%AF%D5%A1%D5%B5%D5%AB%D5%B6-%D5%BC%D5%A5%D5%BD%D5%B8%D6%82%D6%80%D5%BD%D5%B6%D5%A5%D6%80%D5%AB-%D5%AF%D5%A1%D5%BC%D5%A1%D5%BE%D5%A1%D6%80%D5%B8%D6%82%D5%B4%D5%A8-%D5%B4%D5%BC%D5%AF-%D5%B0%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6-%D5%AB%D6%80%D5%A1%D5%AF%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%A1%D5%B6-%D5%B4%D5%A5%D5%BB-%D5%AF%D5%A1%D5%B4-%D5%B8-%D6%80%D5%B6-%D5%A7-hr-%D5%AB-%D5%A3%D5%B8%D6%80%D5%AE%D5%A1%D5%BC%D5%B8%D6%82%D5%B5%D5%A9%D5%A8-ec62af7cc2f2?source=rss-7d6aaa67b72a------2)
+- [Interview-ների և Talk-երի հակառակ կողմը։ HR-ի ֆենոմենը։](https://medium.com/@vanikhakobyan/interview-%D5%B6%D5%A5%D6%80%D5%AB-%D6%87-talk-%D5%A5%D6%80%D5%AB-%D5%B0%D5%A1%D5%AF%D5%A1%D5%BC%D5%A1%D5%AF-%D5%AF%D5%B8%D5%B2%D5%B4%D5%A8-hr-%D5%AB-%D6%86%D5%A5%D5%B6%D5%B8%D5%B4%D5%A5%D5%B6%D5%A8-7f9844584954?source=rss-7d6aaa67b72a------2)
+- [New C# 8 Features Մաս 2 (Հայերեն)](https://medium.com/@vanikhakobyan/new-c-8-features-%D5%B4%D5%A1%D5%BD-2-%D5%B0%D5%A1%D5%B5%D5%A5%D6%80%D5%A5%D5%B6-6c8951bcb89b?source=rss-7d6aaa67b72a------2)
+- [New C# 8 Features Մաս 1 (Հայերեն)](https://medium.com/@vanikhakobyan/new-c-8-features-%D5%B4%D5%A1%D5%BD-1-%D5%B0%D5%A1%D5%B5%D5%A5%D6%80%D5%A5%D5%B6-504d4e80e4f6?source=rss-7d6aaa67b72a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
