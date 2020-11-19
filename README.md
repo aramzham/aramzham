@@ -10,6 +10,17 @@ I hate selling myself. So here's quick things about me and my work. In, out, nob
 I specialize in the backend, APIs, web-services, and desktop applications. This means that I have familiarity with REST, Entity Framework, XAML, LINQ, and a commitment to gaining expertise in Microsoft .NET technologies stack. I've been developing since the 2017 year using SCRUM and best development practices.
 
 I'm always looking for opportunity to improve the project I'm working on.
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **aramzham/aramzham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
