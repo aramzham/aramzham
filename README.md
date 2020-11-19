@@ -14,6 +14,9 @@ I'm always looking for opportunity to improve the project I'm working on.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to create a GitHub account and a repository](https://www.youtube.com/watch?v=DqfhyA7aLHA)
+- [MMM Pays](https://www.youtube.com/watch?v=TKmq1uTFFU0)
+- [How to prepare a hookah](https://www.youtube.com/watch?v=BTZ91oTr6mQ)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
