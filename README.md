@@ -36,12 +36,10 @@ I'm always looking for opportunity to improve the project I'm working on.
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+### :zap: Recent Activity
   
 <!--START_SECTION:activity-->
-
-</details>
+<!--END_SECTION:activity-->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
