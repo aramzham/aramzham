@@ -28,6 +28,8 @@ I'm always looking for opportunity to improve the project I'm working on.
 - [New C# 8 Features Մաս 1 (Հայերեն)](https://medium.com/@vanikhakobyan/new-c-8-features-%D5%B4%D5%A1%D5%BD-1-%D5%B0%D5%A1%D5%B5%D5%A5%D6%80%D5%A5%D5%B6-504d4e80e4f6?source=rss-7d6aaa67b72a------2)
 <!-- BLOG-POST-LIST:END -->
 
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=aramzham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
