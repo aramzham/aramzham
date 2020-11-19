@@ -38,7 +38,9 @@ I'm always looking for opportunity to improve the project I'm working on.
 
 ### :zap: GitHub Stats
 
-<img align="left" alt="aramzham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aramzham&show_icons=true&hide_border=true&hide=issues,contribs&hide_title=true" />
+<img alt="aramzham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aramzham&show_icons=true&hide_border=true&hide=issues,contribs&hide_title=true" />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aramzham)
 
 <!--
 **aramzham/aramzham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
