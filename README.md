@@ -36,17 +36,9 @@ I'm always looking for opportunity to improve the project I'm working on.
 
 ---
 
-### :zap: Recent Activity
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### :zap: GitHub Stats
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="aramzham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aramzham&show_icons=true&hide_border=true&hide=issues,contribs" />
-
-</details>
+<img align="left" alt="aramzham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aramzham&show_icons=true&hide_border=true&hide=issues,contribs" />
 
 <!--
 **aramzham/aramzham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
