@@ -35,6 +35,14 @@ I'm always looking for opportunity to improve the project I'm working on.
 
 </details>
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
 <!--
 **aramzham/aramzham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
