@@ -5,15 +5,24 @@
   </div>
 
 ## Hi there, I'm Aram :wave:
- 
-First and foremost, I love writing code.
+
+
+I consider myself as a smart worker and determined team player. I am a developer skilled mainly in <img width="32px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/dotnet.png"/> <img width="32px" src="https://github.com/hussainweb/hussainweb/blob/main/icons/csharp.png"/> and its frameworks.
+
+:computer: First and foremost, I love writing code.
 
 I hate selling myself. So here's quick things about me and my work. In, out, nobody gets hurt.
 
-I specialize in the backend, APIs, web-services, and desktop applications. This means that I have familiarity with REST, Entity Framework, XAML, LINQ, and a commitment to gaining expertise in Microsoft .NET technologies stack. I've been developing since the 2017 year using SCRUM and best development practices.
+🌱 What do I do?<br/>
+✔️I've been developing since the 2017 year using SCRUM and best development practices.
 
-I'm always looking for opportunity to improve the project I'm working on.
+✔️I'm a fast learner looking for interesting career opportunities in any area. I am awaiting a chance to build up my career and skills looking for growth.
 
+⚡ One line that describes me best?
+An ambitious guy who loves to play football :soccer:, learn Spanish :es: and sometime codes too.😉😉
+
+👯 My other interests
+I'm always looking for opportunity to improve the project I'm working on. I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 <!-- ### Spotify Playing 🎧
 
