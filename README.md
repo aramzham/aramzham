@@ -1,6 +1,6 @@
 <div style="float:left">
   <a href="https://www.linkedin.com/in/aram-zhamkochyan/" rel="nofollow">
-<img src="https://user-images.githubusercontent.com/25085025/87861030-690ab780-c953-11ea-86f3-5f313ebe0635.png" style="max-width:100%;">
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" style="max-width:100%;">
 </a>
   </div>
 
